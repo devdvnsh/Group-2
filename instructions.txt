@@ -1,0 +1,59 @@
+
+Project Setup & Usage Instructions
+
+📁 Folder Structure Overview
+
+The root project folder is named 'Group 2' and contains the following:
+
+1. Project Report
+   Contains the final project report and project synopsis in document format.
+
+2. Source Code
+   This folder includes another folder named 'student-mgmt-system', which holds the complete web application source code.
+
+3. Presentation
+   Includes the project presentation slides.
+
+4. Group Members.txt
+   A plain text file listing the names and roll numbers of all contributing group members.
+
+5. instructions.txt
+   The file you are currently viewing. It provides step-by-step instructions to run the project on your local machine.
+
+------------------------------------------------------------
+
+🚀 How to Run the Project
+
+Follow the steps below to set up and run the Student Management System locally:
+
+1. Install Required Software
+   Make sure the following are installed on your system:
+   - Node.js
+   - npm (comes bundled with Node.js)
+   - MongoDB
+
+2. Ensure You Are Connected to the Internet
+   Some dependencies may be fetched online during installation.
+
+3. Navigate to the Source Code Directory
+   Open your preferred terminal and run:
+   cd Group 2 - Student Management System/Source Code/student-mgmt-system/
+
+4. Install Dependencies
+   Use npm to install all required node modules:
+   npm install
+
+5. Start the Development Server
+   Once installation is complete, run the project with:
+   npm run dev
+
+6. Access the Application
+   Open any web browser and go to:
+   http://localhost:3002/
+
+   The server will be running on port 3002.
+
+------------------------------------------------------------
+
+✅ You're all set!
+This setup will allow you to view and use the student management system locally on your machine.
